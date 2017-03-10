@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/estudiante/.android/build-cache/5256c595ca12311667fb4806550e295c4c35e2ff/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="810f41e5b7fd99f196ebeabe865ba2c54e7e76dc">
+        <dex dex="/Users/estudiante/Downloads/PDAM_Lab6/app/build/intermediates/pre-dexed/debug/classes_10c1abc6bc3793202dc34d9156089400ed25bc6a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/estudiante/.android/build-cache/8d9044a9895c3733f282674ff28992c4d5c7a5c9/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cb454b52545859ed2f24a6c01366805b0fa04b22">
+        <dex dex="/Users/estudiante/Downloads/PDAM_Lab6/app/build/intermediates/pre-dexed/debug/classes_1a545452f5e2f7a9d0c90cee3268c8c2a3e790a0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/estudiante/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.7/751f548c85fa49f330cecbb1875893f971b33c4e/gson-2.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="/Users/estudiante/Downloads/PDAM_Lab6/app/build/intermediates/pre-dexed/debug/gson-2.7_8a79ede55ae5cdf27b2c1d3ca1676e1d4e2d5da5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/estudiante/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.2.0/41e67dba73c3347e4503761642c39d0e06ca1f2/retrofit-2.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="041e67dba73c3347e4503761642c39d0e06ca1f2">
+        <dex dex="/Users/estudiante/Downloads/PDAM_Lab6/app/build/intermediates/pre-dexed/debug/retrofit-2.2.0_6b0e4d40a6057f263718d1c61a21c1953ad0bfc0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/estudiante/.android/build-cache/378c6049eea8bd4e3284630d8accfd5b43b0f006/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="/Users/estudiante/Downloads/PDAM_Lab6/app/build/intermediates/pre-dexed/debug/classes_172f32b7c1030252c67f33d75168d834ed97e12b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/estudiante/.android/build-cache/ad81b78abae1fdf0ec854bd92796e7fd18881289/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/estudiante/Downloads/PDAM_Lab6/app/build/intermediates/pre-dexed/debug/classes_9b5e9fcf57b3bf951b4636de3835e75bbc6a2ac6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/estudiante/.android/build-cache/e0a021d98e24ea70ab501ccd99157cb1a80edc59/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="/Users/estudiante/Downloads/PDAM_Lab6/app/build/intermediates/pre-dexed/debug/classes_45f9ef1de78b87992c466e07613a19e2ab89e017.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/estudiante/.android/build-cache/858ff86aae2cb8a7216e9d3c89331880318cb2e8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="/Users/estudiante/Downloads/PDAM_Lab6/app/build/intermediates/pre-dexed/debug/classes_e2883eb67e876589d5899a18cfb7cb7dc68efc92.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/estudiante/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.1.0/aa557d71ead91cbf26e0c316a0f593d168303309/converter-gson-2.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aa557d71ead91cbf26e0c316a0f593d168303309">
+        <dex dex="/Users/estudiante/Downloads/PDAM_Lab6/app/build/intermediates/pre-dexed/debug/converter-gson-2.1.0_43c0064df844dc80db24045b2f76a0740b8a532f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/estudiante/.android/build-cache/370acf31dbe1f87281aa150c7658b110294c1f7e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="/Users/estudiante/Downloads/PDAM_Lab6/app/build/intermediates/pre-dexed/debug/classes_16a37147ddfdc4aae9883d77ca2a55a214eea1aa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/estudiante/.android/build-cache/7c25fd759c611d2d3dc2ef60d3c68547ecb5b65b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/estudiante/Downloads/PDAM_Lab6/app/build/intermediates/pre-dexed/debug/classes_cc33ac7acbd58d10d29f00165b1a6948e9c92d04.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/estudiante/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.11.0/840897fcd7223a8143f1d9b6f69714e7be34fd50/okio-1.11.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="840897fcd7223a8143f1d9b6f69714e7be34fd50">
+        <dex dex="/Users/estudiante/Downloads/PDAM_Lab6/app/build/intermediates/pre-dexed/debug/okio-1.11.0_91e1dafd848235409770e1c1ad5dd40ff762ffd8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/estudiante/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.2.0/support-annotations-25.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="/Users/estudiante/Downloads/PDAM_Lab6/app/build/intermediates/pre-dexed/debug/support-annotations-25.2.0_34ff9621a7360948493fbba1f27926bfc77ac417.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/estudiante/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.6.0/69edde9fc4b01c9fd51d25b83428837478c27254/okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="/Users/estudiante/Downloads/PDAM_Lab6/app/build/intermediates/pre-dexed/debug/okhttp-3.6.0_5a4cc91c881066d4074225ce7ef533aca2459a04.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/estudiante/.android/build-cache/45bba601566eab50790092d3839c861419fc27ff/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="/Users/estudiante/Downloads/PDAM_Lab6/app/build/intermediates/pre-dexed/debug/classes_51a6ce98ad115801e5111e4f070f8983a6a6987a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/estudiante/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/estudiante/Downloads/PDAM_Lab6/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.2_a1f08d7a24292d7b068bad0ac1434692cfe19221.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/estudiante/.gradle/caches/modules-2/files-2.1/com.j256.ormlite/ormlite-android/5.0/1f065373aeef355dd9e2fd9854efd5ed4d54f6d/ormlite-android-5.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="01f065373aeef355dd9e2fd9854efd5ed4d54f6d">
+        <dex dex="/Users/estudiante/Downloads/PDAM_Lab6/app/build/intermediates/pre-dexed/debug/ormlite-android-5.0_d8645cc441a30e804ea363658ca06d984f84673f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/estudiante/.gradle/caches/modules-2/files-2.1/com.j256.ormlite/ormlite-core/5.0/3382b8260646dd334a1b9c1b3d412fcb73d8b21/ormlite-core-5.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="03382b8260646dd334a1b9c1b3d412fcb73d8b21">
+        <dex dex="/Users/estudiante/Downloads/PDAM_Lab6/app/build/intermediates/pre-dexed/debug/ormlite-core-5.0_64165b91a708ca61678d98c241f2c0c94859c660.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/estudiante/.android/build-cache/fc5b82b3ec571249ecea4977511a2d9ca86c988b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="702d339bc0a81d21354cd7e2cf2b67225fa4a16c">
+        <dex dex="/Users/estudiante/Downloads/PDAM_Lab6/app/build/intermediates/pre-dexed/debug/classes_bd9a4e6bac4ace1cbe0201d5eb481a48768f4959.jar" />
+    </item>
+
+</items>

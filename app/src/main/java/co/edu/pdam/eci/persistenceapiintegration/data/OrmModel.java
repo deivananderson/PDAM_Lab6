@@ -10,9 +10,7 @@ import co.edu.pdam.eci.persistenceapiintegration.data.dao.TeamDao;
  * @author Santiago Carrillo
  */
 
-public class OrmModel
-    implements Model
-{
+public class OrmModel implements Model{
     private DatabaseHelper helper;
 
     public synchronized void init( Context context )
